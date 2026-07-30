@@ -13,4 +13,4 @@
 ### Straight from repository
 1. Download source code (download ZIP button)
 2. Unpack the .zip
-3. Place `Silicon Carbon` folder to `/Library/Alkaline` directory
+3. Place `Silicon Carbon` folder into `/Library/Alkaline` directory
