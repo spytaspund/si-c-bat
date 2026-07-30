@@ -14,3 +14,6 @@
 1. Download source code (download ZIP button)
 2. Unpack the .zip
 3. Place `Silicon Carbon` folder into `/Library/Alkaline` directory
+### From releases (.deb file)
+1. Download [latest release](https://github.com/spytaspund/si-c-bat/releases/latest) containing .deb file
+2. Install it on your device (e.g. with Cydia, Filza, etc.)
