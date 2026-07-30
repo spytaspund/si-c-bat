@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="548" height="500" alt="si-c-banner" src="https://github.com/user-attachments/assets/d07a1941-fa47-44fc-80a1-12f584b49da1" />
+  <img width="383" height="350" alt="si-c-banner" src="https://github.com/user-attachments/assets/d07a1941-fa47-44fc-80a1-12f584b49da1" />
   <h1>Silicon-Carbon battery</h1>
   <p>iOS 13+ battery style for alkaline</p>
   <img src="https://img.shields.io/badge/made_for-alkaline-blue"/>
