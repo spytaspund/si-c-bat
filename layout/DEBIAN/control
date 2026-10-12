@@ -1,0 +1,10 @@
+Package: dev.spytaspund.si-c-bat
+Name: Si-C Battery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: iOS 13-18 battery style for Alkaline.
+Maintainer: spytaspund
+Author: spytaspund
+Section: Themes (Alkaline)
+Depiction: https://spytaspund.github.io/cydia-repo/depictions/?p=dev.spytaspund.si-c-bat
+Depends: com.fortysixandtwo.alkaline
